@@ -1,5 +1,5 @@
 # python
-This program is to implement a simple rock_paper_scissor 
+This program is to implement the rock_paper_scissor game
 
 #concepts
 Loops
